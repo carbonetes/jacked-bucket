@@ -1,12 +1,12 @@
 {
-    "version": "1.10.1",
+    "version": "1.10.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/carbonetes/jacked/releases/download/v1.10.1/jacked_1.10.1_windows_amd64.zip",
+            "url": "https://github.com/carbonetes/jacked/releases/download/v1.10.2/jacked_1.10.2_windows_amd64.zip",
             "bin": [
                 "jacked.exe"
             ],
-            "hash": "c5367d127242faae800434cd73a1aaa357e7910ead2d31d15db1074947d5ed97"
+            "hash": "fe81933a2b6b53e76a5847b1511926a63ce2efbba3487663e981a7a862f72703"
         }
     },
     "homepage": "https://www.carbonetes.com/",
